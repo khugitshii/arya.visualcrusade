@@ -1,4 +1,4 @@
-## My Art Collection
+# My Art Gallery
 
 - <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%201.jpg"> Post - 1 </a>
 
