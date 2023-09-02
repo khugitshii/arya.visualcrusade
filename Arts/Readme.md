@@ -10,6 +10,6 @@
 
 - <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%205.jpg"> Post - 5 </a>
 
-- <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%206.jpg"> Post - 6 (1) </a>
+- <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%206%20(i).jpg"> Post - 6 (1) </a>
 
-- <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%206.jpg"> Post - 6 (2) </a>
+- <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%206%20(ii).jpg"> Post - 6 (2) </a>
