@@ -1,5 +1,7 @@
 # My Art Gallery
 
+### POSTS
+
 - <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%201.jpg"> Post - 1 </a>
 
 - <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%202.jpg"> Post - 2 </a>
