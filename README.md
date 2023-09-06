@@ -27,3 +27,9 @@
 - <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%209%20(i).jpg"> Post - 9 (1) </a>
 
 - <a href="https://github.com/khugitshii/my_art/blob/main/Arts/Post%20-%209%20(ii).jpg"> Post - 9 (2) </a>
+
+- <a href="https://github.com/khugitshii/my_art_gallery/blob/main/Arts/Post%20-10.jpg"> Post - 10 </a>
+
+- <a href="https://github.com/khugitshii/my_art_gallery/blob/main/Arts/Post%20-%2011.jpg"> Post - 11 </a>
+
+- <a href="https://github.com/khugitshii/my_art_gallery/blob/main/Arts/Post%20-%2012.jpg"> Post - 12 </a>
