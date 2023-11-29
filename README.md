@@ -25,3 +25,5 @@ Please respect these terms and conditions when using or sharing this artwork. If
    <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" 
  src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a>
 </p>
+
+[Link to the license deed for more details](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
